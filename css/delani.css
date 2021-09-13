@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .main{
-    background-image: url(/Assets/backgrounds/h_img.jpg);
+    background-image: url(../Assets/backgrounds/h_img.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: scroll;
@@ -44,7 +44,7 @@ strong{
     font-size: smaller;
 }
 .services{
-    background-image: url(/Assets/backgrounds/s_image.jpg);
+    background-image: url(../Assets/backgrounds/s_image.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -83,7 +83,7 @@ strong{
     font-size: 20px;
 }
 .contact{
-    background-image: url(/Assets/backgrounds/c_image.jpg);
+    background-image: url(../Assets/backgrounds/c_image.jpg);
     background-size: 900px;
     background-repeat:no-repeat;
     background-size: cover;
