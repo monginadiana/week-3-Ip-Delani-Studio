@@ -68,11 +68,7 @@ strong{
     text-align: center;
     font-size: 30px;
 }
-/*.portfolio img{
-    height: 200px;
-    width: 100px;
-    justify-content: space-evenly;
-}*/
+
 .hov1,.hov2,.hov3,.hov4,.hov5,.hov6,.hov7,.hov8{
     display: none;
     position:absolute;
