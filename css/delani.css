@@ -58,6 +58,9 @@ strong{
 .serv>p{
     font-size: smaller;
 }
+.do{
+    text-align: center;
+}
 .bold.container{
     padding-top: 30px;
 }
