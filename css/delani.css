@@ -96,6 +96,10 @@ strong{
     text-align: center;
     color: white;
 }
+.col{
+    background: transparent;
+}
+
 /*.form{
     background: transparent;
 }
