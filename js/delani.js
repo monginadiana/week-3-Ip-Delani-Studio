@@ -28,6 +28,7 @@ $(document).ready(function(){
     });
     
 })
+/*creation of the hover effect on portifoli*/
 $("#col1")
     .mouseenter(function () {
         $(".hov1").show("slow");
