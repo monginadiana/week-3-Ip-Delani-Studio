@@ -74,7 +74,7 @@ strong{
 .hov1,.hov2,.hov3,.hov4,.hov5,.hov6,.hov7,.hov8{
     display: none;
     position:absolute;
-    top: 0.3px;go
+    top: 0.3px;
     bottom: 10px;
     left: 40px;
     height:40%;
@@ -87,19 +87,16 @@ strong{
 }
 .contact{
     background-image: url(../Assets/backgrounds/c_image.jpg);
-    background-size: 900px;
     background-repeat:no-repeat;
     background-size: cover;
-    height: 400px;
-    width: 100%;
-    margin: 0;
-    justify-content: center;
+   
 }
 .contact h2{
+
     text-align: center;
     color: white;
 }
-.form{
+/*.form{
     background: transparent;
 }
 .form1{
@@ -113,7 +110,7 @@ strong{
     margin-right: 20px;
     margin-top: 20px;
     opacity: 0.3;
-}
+}*/
 .media{
     text-align: center;
     justify-content: center;
