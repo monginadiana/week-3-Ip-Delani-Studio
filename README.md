@@ -8,7 +8,7 @@
 * change current directory to where you want it cloned
 * type git clone https://github.com/monginadiana/week-3-Ip-Delani-Studio
 * press enter to create a local clone
-* This is the live link for viewing my project..
+* This is the live link for viewing my project https://monginadiana.github.io/week-3-Ip-Delani-Studio/
 ## Known Bugs
 {*the merge conflicts }
 ## Technologies Used
