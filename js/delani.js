@@ -85,7 +85,7 @@ $("#col1")
     .mouseleave(function () {
         $(".hov8").hide("slow");
     });
-
+/*submiting of the form with an alert*/
 function submit(){
     var name =$("#fill").val();
     var email=$("#fill1").val();
