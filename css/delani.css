@@ -68,7 +68,6 @@ strong{
     text-align: center;
     font-size: 30px;
 }
-
 .hov1,.hov2,.hov3,.hov4,.hov5,.hov6,.hov7,.hov8{
     display: none;
     position:absolute;
@@ -82,7 +81,6 @@ strong{
     text-align: center;
     padding-top: 10px 10px 10px 10px;
     font-size: 20px;
-
 }
 .contact{
     background-image: url(/Assets/backgrounds/c_image.jpg);
@@ -97,7 +95,6 @@ strong{
 .contact h2{
     text-align: center;
     color: white;
-    
 }
 .form1{
     display: inline;
@@ -110,7 +107,6 @@ strong{
     margin-right: 20px;
     margin-top: 20px;
     opacity: 0.3;
-    
 }
 .media{
     text-align: center;
@@ -123,7 +119,6 @@ strong{
 .submit{
     text-align: center;
 }
-
 .footer{
     text-align: center;
     padding-top: 10px;
