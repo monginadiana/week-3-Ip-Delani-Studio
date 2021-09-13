@@ -1,7 +1,7 @@
 $(document).ready(function(){
     $(".do").addClass('text-center');
     $(".bold").addClass('text-center');
-    $(".pic1").click(function(){
+    $(".img1").click(function(){
         $(".img1").hide(1000);
         $(".par1").toggle(1000);
     });
