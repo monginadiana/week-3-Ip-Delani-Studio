@@ -26,7 +26,6 @@ $(document).ready(function(){
         $(".par3").hide(1000)
         $(".img3").toggle(1000)
     });
-    
 })
 /*creation of the hover effect on portifoli*/
 $("#col1")
