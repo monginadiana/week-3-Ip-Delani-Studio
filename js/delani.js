@@ -86,8 +86,8 @@ $("#col1")
     });
 /*submiting of the form with an alert*/
 function submit(){
-    var name =$("#fill").val();
-    var email=$("#fill1").val();
+    var name =$("#name").val();
+    var email=$("#email").val();
     var message=$("#message").val();
     if (name === "" & email === "") {
 		alert("Please fill in all fields!")
