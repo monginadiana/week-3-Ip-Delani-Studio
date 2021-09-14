@@ -71,6 +71,10 @@ strong{
 .par1, .par2, .par3{
     display: none;
 }
+.portfolio{
+    padding-bottom: 70px;
+    padding-top: 30px;
+}
 .portfolio h2{
     text-align: center;
     font-size: 30px;
