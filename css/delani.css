@@ -7,28 +7,32 @@
     background-image: url(../Assets/backgrounds/h_img.jpg);
     background-position: center;
     background-size: cover;
-    background-attachment: scroll;
+    background-attachment:scroll;
     background-repeat: no-repeat;
     text-align: center;
     color: white;   
 }
+.welcome{
+    padding-bottom: 1%;
+}
 .logo{
-    padding-top: 8%;
-    padding-bottom:4% ;
+    padding-top: 5%;
+    padding-bottom: 5px;
+
 }
 
 .first>h1{
-    padding-bottom:5%;
+    
     font-size: 40px;
     font-weight: bold;
 }
 strong{
-    position: relative;
-    top: -70px;
+    
     font-size:small ;
 }
 .mouse{
-    padding-top: 50px;
+    padding-top: 100px;
+    padding-bottom: 10px;
 }
 
 .design{
@@ -96,8 +100,17 @@ strong{
     text-align: center;
     color: white;
 }
+.bg{
+    background-color: transparent;
+}
+.form ::placeholder{
+    color: white;
+}
 .col{
     background: transparent;
+}
+.social{
+    padding-top: 10px;
 }
 
 /*.form{
@@ -115,14 +128,6 @@ strong{
     margin-top: 20px;
     opacity: 0.3;
 }*/
-.media{
-    text-align: center;
-    justify-content: center;
-    padding-top: 20px;
-}
-.media img{
-    padding-left: 10px;
-}
 .submit{
     text-align: center;
 }

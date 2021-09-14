@@ -86,12 +86,12 @@ $("#col1")
     });
 /*submiting of the form with an alert*/
 function submit(){
-    var name =$("#name").val();
-    var email=$("#email").val();
+    var name =$("input#name").val();
+    var email=$("input#email").val();
     var message=$("#message").val();
     if (name === "" & email === "") {
 		alert("Please fill in all fields!")
 	} else {
-		alert("Thank you " + name + "! Your message has been received. We shall get back to you shortly.");
+		alert("Thank you " + name + " ! Your message has been received. We shall get back to you shortly.");
     };
 };
